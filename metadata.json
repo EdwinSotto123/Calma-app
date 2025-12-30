@@ -1,0 +1,8 @@
+{
+  "name": "Calma",
+  "description": "Una aplicación de apoyo emocional, contención y bienestar. Diseñada para ser un refugio seguro con herramientas de regulación, contacto de emergencia y acompañamiento no clínico.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
