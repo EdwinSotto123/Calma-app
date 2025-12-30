@@ -1,6 +1,5 @@
 # 🧘 Calma - AI Mental Health Companion
 
-> **Winner/Participant of [Hackathon Name]**
 >
 > *An AI mental health companion that detects crises in real-time, provides voice-based psychological intervention, and automatically alerts loved ones if you are in danger.*
 
