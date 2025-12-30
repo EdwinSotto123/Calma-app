@@ -12,7 +12,7 @@ import { UserState, Medication, Contact, Mood, SafetyPlan, DailyLog, Memory, Rem
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCymOQKNPYpMfgowfM-kyq0uiUr8BbbkUU",
+    apiKey: "",
     authDomain: "calma-appp.firebaseapp.com",
     projectId: "calma-appp",
     storageBucket: "calma-appp.firebasestorage.app",
